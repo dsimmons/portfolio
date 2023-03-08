@@ -1,0 +1,3 @@
+[submodule "jankascore/contracts"]
+	path = jankascore
+	url = git@github.com:jankascore/contracts.git
